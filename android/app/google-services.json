@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "173102596800",
+    "project_id": "audiovideo-70863",
+    "storage_bucket": "audiovideo-70863.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173102596800:android:6b73aec8c598990d56e325",
+        "android_client_info": {
+          "package_name": "com.cris.webrtc_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ZlqTje4HdIHBaX5taummFdogFfWTi1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173102596800:android:039426076c200cb156e325",
+        "android_client_info": {
+          "package_name": "com.e"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ZlqTje4HdIHBaX5taummFdogFfWTi1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173102596800:android:ee7e12f38703474356e325",
+        "android_client_info": {
+          "package_name": "com.example.calling"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ZlqTje4HdIHBaX5taummFdogFfWTi1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173102596800:android:ddeaede3ae77e5f056e325",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ZlqTje4HdIHBaX5taummFdogFfWTi1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173102596800:android:4bb27f2f365f431756e325",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chess_multiplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ZlqTje4HdIHBaX5taummFdogFfWTi1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173102596800:android:8e5124458a686a5656e325",
+        "android_client_info": {
+          "package_name": "com.example.video_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ZlqTje4HdIHBaX5taummFdogFfWTi1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173102596800:android:2008bb5e5376e16556e325",
+        "android_client_info": {
+          "package_name": "it.maionemiky.flutter_firebase_video_call_webrtc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8ZlqTje4HdIHBaX5taummFdogFfWTi1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
